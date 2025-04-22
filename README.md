@@ -14,9 +14,13 @@
 
 - Design com tipografia do Google Fonts
 
-🖼️ Preview do Projeto
+  <br>
+
+<h3>🖼️ Preview do Projeto</h3>
+<img src="https://github.com/BrunoWACE/easy-shopping/blob/main/assets/Imagem%20Easy%20Shopping.png?raw=true"/>
 
 
+<br>
 <br>
 <h3>🛠 Tecnologias Utilizadas</h3>
 
@@ -32,7 +36,7 @@
 ├── index.html
 ├── styles.css
 └── assets
-    └── Illustration-3-3.png
+
 <br>
 <br>
 
