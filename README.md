@@ -1,5 +1,5 @@
 ## 🛒 Projeto: Easy Shopping Via Mobile
-<b>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br"target="_blank">DevClub</a></b>, uma landing page responsiva para um serviço de compras via mobile, desenvolvida utilizando HTML e CSS. O objetivo é praticar conceitos de responsividade, layout com Flexbox e boas práticas de estruturação visual.
+<b>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br" target="_blank">DevClub</a></b>, uma landing page responsiva para um serviço de compras via mobile, desenvolvida utilizando HTML e CSS. O objetivo é praticar conceitos de responsividade, layout com Flexbox e boas práticas de estruturação visual.
 
 
 <br>
